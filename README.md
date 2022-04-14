@@ -1,2 +1,2 @@
 # glandata-polimorfismo-java
-Exemplo de utilização de polimorfismo com Java
+Exemplo básico de utilização de polimorfismo em Java para o treinamento do time da Glan Data
